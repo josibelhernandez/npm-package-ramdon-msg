@@ -11,10 +11,18 @@
     "node",
     "npm"
   ],
-  "author": "",
+  "author": "Josibel Hernandez",
   "license": "MIT",
   "bin": {
-    "random-msg-platzi-jh": "./bin/global.js"
+    "random-msg-platzi-jh": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josibelhernandez/npm-package-ramdon-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/josibelhernandez/npm-package-ramdon-msg/issues"
+  },
+  "homepage": "https://github.com/josibelhernandez/npm-package-ramdon-msg#readme"
 }
